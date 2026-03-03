@@ -13,7 +13,7 @@
 ---
 [![Latest Release](https://img.shields.io/github/v/release/MessyMidi/FinalshellDecoderPlus?display_name=tag)](https://github.com/MessyMidi/FinalshellDecoderPlus/releases/latest)
 [![License](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](./LICENSE)
-
+[![Open Issue](https://img.shields.io/badge/Issue-Open-blue.svg)](https://github.com/MessyMidi/FinalshellDecoderPlus/issues/new)
 ## ✨ 功能特性
 
 * 匹配默认 FinalShell 安装路径✅
